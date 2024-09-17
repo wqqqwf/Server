@@ -1,0 +1,152 @@
+{
+	"pools": [
+		{
+			"rolls": {
+				"min": 1,
+				"max": 2
+			},
+			"entries": [
+				{
+					"type": "minecraft:item",
+					"name": "minecraft:coal",
+					"functions": [
+						{
+							"function": "minecraft:set_count",
+							"count": {
+								"min": 4,
+								"max": 8
+							}
+						}
+					]
+				},
+				{
+					"type": "minecraft:item",
+					"name": "minecraft:charcoal",
+					"functions": [
+						{
+							"function": "minecraft:set_count",
+							"count": {
+								"min": 3,
+								"max": 11
+							}
+						}
+					]
+				}
+			]
+		},
+		{
+			"rolls": {
+				"min": 0,
+				"max": 4
+			},
+			"entries": [
+				{
+					"type": "minecraft:item",
+					"name": "minecraft:iron_ingot",
+					"functions": [
+						{
+							"function": "minecraft:set_count",
+							"count": {
+								"min": 4,
+								"max": 8
+							}
+						}
+					]
+				},
+				{
+					"type": "minecraft:item",
+					"name": "mekanism:dust_coal",
+					"functions": [
+						{
+							"function": "minecraft:set_count",
+							"count": {
+								"min": 4,
+								"max": 8
+							}
+						}
+					]
+				},
+				{
+					"type": "minecraft:item",
+					"name": "mekanismtools:bronze_helmet"
+				},
+				{
+					"type": "minecraft:item",
+					"name": "mekanismtools:bronze_chestplate"
+				},
+				{
+					"type": "minecraft:item",
+					"name": "mekanismtools:bronze_leggings"
+				},
+				{
+					"type": "minecraft:item",
+					"name": "mekanismtools:bronze_boots"
+				},
+				{
+					"type": "minecraft:item",
+					"name": "mekanismtools:bronze_helmet"
+				},
+				{
+					"type": "minecraft:item",
+					"name": "mekanismtools:bronze_chestplate"
+				},
+				{
+					"type": "minecraft:item",
+					"name": "mekanismtools:bronze_leggings"
+				},
+				{
+					"type": "minecraft:item",
+					"name": "mekanismtools:bronze_boots"
+				},
+				{
+					"type": "minecraft:item",
+					"name": "mekanismtools:bronze_sword"
+				},
+				{
+					"type": "minecraft:item",
+					"name": "mekanismtools:bronze_pickaxe"
+				},
+				{
+					"type": "minecraft:item",
+					"name": "mekanismtools:bronze_paxel"
+				},
+				{
+					"type": "minecraft:loot_table",
+					"name": "revelations:chests/immersive_armors_loot"
+				},
+				{
+					"type": "minecraft:item",
+					"functions": [
+						{
+							"function": "dungeoncrawl:random_item",
+							"loot_level": 1
+						}
+					],
+					"name": "minecraft:air",
+					"weight": 2
+				},
+				{
+					"type": "minecraft:item",
+					"functions": [
+						{
+							"function": "dungeoncrawl:material_blocks"
+						}
+					],
+					"name": "minecraft:air",
+					"weight": 3
+				},
+				{
+					"type": "minecraft:item",
+					"functions": [
+						{
+							"function": "dungeoncrawl:random_potion",
+							"loot_level": 2
+						}
+					],
+					"name": "minecraft:potion",
+					"weight": 1
+				}
+			]
+		}
+	]
+}

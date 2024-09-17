@@ -1,0 +1,57 @@
+
+#Disables certain types. Note that all these configs, like in any other mod, only hide stuff from tabs and disable their recipes
+[types]
+
+	[types.wood_type]
+
+		[types.wood_type.ecologics]
+			flowering_azalea = true
+			azalea = true
+			coconut = true
+			walnut = true
+
+		[types.wood_type.botania]
+			livingwood = true
+			dreamwood = true
+
+		[types.wood_type.deeperdarker]
+			echo = true
+
+	[types.leaves_type]
+
+		[types.leaves_type.ecologics]
+			coconut = true
+			walnut = true
+
+		[types.leaves_type.simplefarming]
+			apple = true
+			apricot = true
+			banana = true
+			cherry = true
+			mango = true
+			olive = true
+			orange = true
+			pear = true
+			plum = true
+
+		[types.leaves_type.deeperdarker]
+			echo = true
+
+#Disables specific entries
+[entries]
+
+	[entries.wood_type]
+
+		[entries.wood_type.another_furniture]
+			drawer = true
+			table = true
+			flower_box = true
+			shelf = true
+			shutter = true
+			bench = true
+			chair = true
+
+		[entries.wood_type.create]
+			window_pane = true
+			window = true
+

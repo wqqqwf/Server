@@ -1,0 +1,78 @@
+{
+	"enabled": true,
+	"interval": 20,
+	"entries": [
+		{
+			"armor": [
+				"minecraft:golden_helmet",
+				"minecraft:golden_chestplate",
+				"minecraft:golden_leggings",
+				"minecraft:golden_boots",
+				"immersive_armors:divine_helmet",
+				"immersive_armors:divine_chestplate",
+				"immersive_armors:divine_leggings",
+				"immersive_armors:divine_boots",
+				"mekanismtools:refined_glowstone_helmet",
+				"mekanismtools:refined_glowstone_chestplate",
+				"mekanismtools:refined_glowstone_leggings",
+				"mekanismtools:refined_glowstone_boots"
+			],
+			"particle": {
+				"type": "visuality:sparkle",
+				"value": [
+					0.99607843,
+					1.0,
+					0.6411765
+				]
+			}
+		},
+		{
+			"armor": [
+				"minecraft:diamond_helmet",
+				"minecraft:diamond_chestplate",
+				"minecraft:diamond_leggings",
+				"minecraft:diamond_boots"
+			],
+			"particle": {
+				"type": "visuality:sparkle",
+				"value": [
+					0.7058824,
+					0.99215686,
+					0.93333334
+				]
+			}
+		},
+		{
+			"armor": [
+				"mekanismtools:refined_obsidian_helmet",
+				"mekanismtools:refined_obsidian_chestplate",
+				"mekanismtools:refined_obsidian_leggings",
+				"mekanismtools:refined_obsidian_boots"
+			],
+			"particle": {
+				"type": "visuality:sparkle",
+				"value": [
+					0.5008824,
+					0.2,
+					0.59333334
+				]
+			}
+		},
+		{
+			"armor": [
+				"botania:terrasteel_helmet",
+				"botania:terrasteel_chestplate",
+				"botania:terrasteel_leggings",
+				"botania:terrasteel_boots"
+			],
+			"particle": {
+				"type": "visuality:sparkle",
+				"value": [
+					0.3058824,
+					1.0,
+					0.3333334
+				]
+			}
+		}
+	]
+}

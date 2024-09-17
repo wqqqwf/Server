@@ -1,0 +1,144 @@
+{
+  "theme": {
+    "fencing": {
+      "type": "block",
+      "block": "enderio:dark_steel_bars"
+    },
+    "floor": {
+      "type": "random_block",
+      "blocks": [
+        {
+          "block": "rechiseled:nether_bricks_tiles_connecting",
+          "weight": 70
+        },
+        {
+          "block": "rechiseled:netherrack_tiles_connecting",
+          "weight": 20
+        },
+        {
+          "block": "minecraft:soul_sand",
+          "weight": 15
+        },
+        {
+          "block": "minecraft:nether_wart_block",
+          "weight": 10
+        },
+        {
+          "block": "rechiseled:coal_block_carved_connecting",
+          "weight": 5
+        },
+        {
+          "block": "minecraft:red_nether_bricks",
+          "weight": 50
+        },
+        {
+          "block": "rechiseled:redstone_block_bricks_connecting",
+          "weight": 10
+        }
+      ]
+    },
+    "fluid": {
+      "type": "block",
+      "block": "minecraft:lava"
+    },
+    "generic": {
+      "type": "random_block",
+      "blocks": [
+        {
+          "block": "rechiseled:nether_bricks_large_bricks_connecting",
+          "weight": 70
+        },
+        {
+          "block": "rechiseled:netherrack_bricks_connecting",
+          "weight": 20
+        },
+        {
+          "block": "minecraft:soul_sand",
+          "weight": 15
+        },
+        {
+          "block": "minecraft:nether_wart_block",
+          "weight": 10
+        },
+        {
+          "block": "rechiseled:coal_block_carved_connecting",
+          "weight": 5
+        }
+      ]
+    },
+    "material": {
+      "type": "random_block",
+      "blocks": [
+        {
+          "block": "rechiseled:nether_bricks_large_bricks_connecting",
+          "weight": 70
+        },
+        {
+          "block": "rechiseled:netherrack_bricks_connecting",
+          "weight": 20
+        },
+        {
+          "block": "minecraft:soul_sand",
+          "weight": 15
+        },
+        {
+          "block": "minecraft:nether_wart_block",
+          "weight": 10
+        },
+        {
+          "block": "rechiseled:coal_block_carved_connecting",
+          "weight": 5
+        }
+      ]
+    },
+    "pillar": {
+      "type": "block",
+      "block": "rechiseled:obsidian_bordered_connecting"
+    },
+    "slab": {
+      "type": "block",
+      "block": "minecraft:nether_brick_slab"
+    },
+    "solid": {
+      "type": "random_block",
+      "blocks": [
+        {
+          "block": "rechiseled:nether_bricks_large_bricks_connecting",
+          "weight": 70
+        },
+        {
+          "block": "rechiseled:netherrack_bricks_connecting",
+          "weight": 20
+        },
+        {
+          "block": "minecraft:soul_sand",
+          "weight": 15
+        },
+        {
+          "block": "minecraft:nether_wart_block",
+          "weight": 10
+        },
+        {
+          "block": "rechiseled:coal_block_carved_connecting",
+          "weight": 5
+        }
+      ]
+    },
+    "solid_slab": {
+      "type": "block",
+      "block": "minecraft:nether_brick_slab"
+    },
+    "solid_stairs": {
+      "type": "block",
+      "block": "minecraft:nether_brick_stairs"
+    },
+    "stairs": {
+      "type": "block",
+      "block": "minecraft:nether_brick_stairs"
+    },
+    "wall": {
+      "type": "block",
+      "block": "minecraft:nether_brick_wall"
+    }
+  }
+}

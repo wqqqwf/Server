@@ -1,0 +1,17 @@
+{
+	id: "0e1c444b-f4d9-32c4-8d67-6121e6f15194"
+	type: "player"
+	player_name: "laurazzz"
+	ranks: {
+		0e1c444b-f4d9-32c4-8d67-6121e6f15194: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "laurazzz"
+		"ftbteams:description": ""
+		"ftbteams:color": "#7C59FF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

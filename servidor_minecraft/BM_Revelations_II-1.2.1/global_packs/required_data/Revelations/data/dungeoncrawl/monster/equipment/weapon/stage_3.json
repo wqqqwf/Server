@@ -1,0 +1,45 @@
+{
+	"melee": [
+		{
+			"item": "simplyswords:gold_twinblade"
+		},
+		{
+			"item": "minecraft:golden_pickaxe"
+		},
+		{
+			"item": "minecraft:golden_axe"
+		},
+		{
+			"item": "simplyswords:gold_scythe"
+		},
+		{
+			"item": "simplyswords:gold_katana",
+			"weight": 3
+		},
+		{
+			"item": "minecraft:iron_pickaxe",
+			"weight": 3
+		},
+		{
+			"item": "minecraft:iron_axe",
+			"weight": 3
+		},
+		{
+			"item": "minecraft:iron_shovel",
+			"weight": 3
+		},
+		{
+			"item": "simplyswords:gold_halberd",
+			"weight": 2
+		},
+		{
+			"item": "simplyswords:gold_rapier",
+			"weight": 2
+		}
+	],
+	"ranged": [
+		{
+			"item": "minecraft:bow"
+		}
+	]
+}

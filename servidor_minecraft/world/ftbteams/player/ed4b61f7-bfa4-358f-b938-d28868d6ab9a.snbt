@@ -1,0 +1,17 @@
+{
+	id: "ed4b61f7-bfa4-358f-b938-d28868d6ab9a"
+	type: "player"
+	player_name: "Nixey"
+	ranks: {
+		ed4b61f7-bfa4-358f-b938-d28868d6ab9a: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Nixey"
+		"ftbteams:description": ""
+		"ftbteams:color": "#59FFA8"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

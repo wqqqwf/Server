@@ -1,0 +1,54 @@
+{
+	"helmet": [
+		{
+			"item": "immersive_armors:bone_helmet",
+			"weight": 2
+		},
+		{
+			"item": "immersive_armors:wither_helmet"
+		},
+		{
+			"item": "immersive_armors:robe_helmet",
+			"weight": 2
+		}
+	],
+	"chestplate": [
+		{
+			"item": "immersive_armors:bone_chestplate",
+			"weight": 2
+		},
+		{
+			"item": "immersive_armors:wither_chestplate"
+		},
+		{
+			"item": "immersive_armors:robe_chestplate",
+			"weight": 2
+		}
+	],
+	"leggings": [
+		{
+			"item": "immersive_armors:bone_leggings",
+			"weight": 2
+		},
+		{
+			"item": "immersive_armors:wither_leggings"
+		},
+		{
+			"item": "immersive_armors:robe_leggings",
+			"weight": 2
+		}
+	],
+	"boots": [
+		{
+			"item": "immersive_armors:bone_boots",
+			"weight": 2
+		},
+		{
+			"item": "immersive_armors:wither_boots"
+		},
+		{
+			"item": "immersive_armors:robe_boots",
+			"weight": 2
+		}
+	]
+}

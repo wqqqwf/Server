@@ -1,0 +1,73 @@
+{
+	"helmet": [
+		{
+			"item": "immersive_armors:divine_helmet"
+		},
+		{
+			"item": "mekanismtools:refined_glowstone_helmet"
+		},
+		{
+			"item": "immersive_armors:wooden_helmet"
+		},
+		{
+			"item": "immersive_armors:warrior_helmet"
+		},
+		{
+			"item": "immersive_armors:heavy_helmet"
+		}
+	],
+	"chestplate": [
+		{
+			"item": "immersive_armors:divine_chestplate"
+		},
+		{
+			"item": "mekanismtools:refined_glowstone_chestplate"
+		},
+		{
+			"item": "immersive_armors:wooden_chestplate"
+		},
+		{
+			"item": "immersive_armors:warrior_chestplate"
+		},
+		{
+			"item": "immersive_armors:heavy_chestplate",
+		}
+	],
+	"leggings": [
+		{
+			"item": "immersive_armors:divine_leggings"
+		},
+		{
+			"item": "mekanismtools:refined_glowstone_leggings"
+		},
+		{
+			"item": "immersive_armors:wooden_leggings"
+		},
+		{
+			"item": "immersive_armors:warrior_leggings"
+		},
+		{
+			"item": "immersive_armors:heavy_leggings"
+		}
+	],
+	"boots": [
+		{
+			"item": "immersive_armors:divine_boots"
+		},
+		{
+			"item": "mekanismtools:refined_glowstone_boots"
+		},
+		{
+			"item": "immersive_armors:wooden_boots"
+		},
+		{
+			"item": "minecraft:chainmail_boots"
+		},
+		{
+			"item": "immersive_armors:warrior_boots"
+		},
+		{
+			"item": "immersive_armors:heavy_boots"
+		}
+	]
+}

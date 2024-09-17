@@ -1,0 +1,17 @@
+{
+	id: "a3a4b92d-cea3-3c00-a58d-b8b12fe51660"
+	type: "player"
+	player_name: "sebasneithorr"
+	ranks: {
+		a3a4b92d-cea3-3c00-a58d-b8b12fe51660: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "sebasneithorr"
+		"ftbteams:description": ""
+		"ftbteams:color": "#BD59FF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

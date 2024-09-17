@@ -1,0 +1,53 @@
+{
+  "enabled": true,
+  "interval": 10,
+  "entries": [
+    {
+      "block": [
+        "minecraft:emerald_ore",
+        "minecraft:deepslate_emerald_ore",
+        "denseores:dense_emerald_ore",
+        "denseores:dense_deepslate_emerald_ore",
+        "powah:uraninite_ore",
+        "powah:uraninite_ore_dense",
+        "powah:deepslate_uraninite_ore",
+        "powah:deepslate_uraninite_ore_dense",
+        "mekanism:uranium_ore",
+        "mekanism:deepslate_uranium_ore"
+      ],
+      "particle": {
+        "type": "visuality:sparkle",
+        "value": [
+          0.4509804,
+          1.0,
+          0.55215687
+        ]
+      }
+    },
+    {
+      "block": "minecraft:amethyst_cluster",
+      "particle": {
+        "type": "visuality:sparkle",
+        "value": [
+          0.99607843,
+          0.79607844,
+          0.9019608
+        ]
+      }
+    },
+    {
+      "block": [
+        "mekanism:fluorite_ore",
+        "mekanism:deepslate_fluorite_ore"
+      ],
+      "particle": {
+        "type": "visuality:sparkle",
+        "value": [
+          0.9958824,
+          0.9021569,
+          0.93333334
+        ]
+      }
+    }
+  ]
+}

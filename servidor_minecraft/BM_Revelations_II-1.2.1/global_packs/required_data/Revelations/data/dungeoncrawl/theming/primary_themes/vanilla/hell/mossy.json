@@ -1,0 +1,154 @@
+{
+  "id": 81,
+  "secondary_theme": [{"key": "dungeoncrawl:vanilla/catacombs/overgrown"}],
+  "decorations": [
+    {
+      "type": "vines"
+    }
+  ],
+  "theme": {
+    "generic": {
+      "type": "random_block",
+      "blocks": [
+        {
+          "block": "minecraft:sculk",
+          "weight": 2
+        },
+        {
+          "block": "minecraft:cobbled_deepslate"
+        },
+        {
+          "block": "minecraft:deepslate_bricks"
+        },
+        {
+          "block": "minecraft:cracked_deepslate_bricks"
+        }
+      ]
+    },
+    "solid": {
+      "type": "random_block",
+      "blocks": [
+        {
+          "block": "minecraft:sculk",
+          "weight": 2
+        },
+        {
+          "block": "minecraft:cobbled_deepslate"
+        },
+        {
+          "block": "minecraft:deepslate_bricks"
+        },
+        {
+          "block": "minecraft:cracked_deepslate_bricks"
+        }
+      ]
+    },
+    "pillar": {
+      "type": "random_block",
+      "blocks": [
+        {
+          "block": "rechiseled:cobbled_deepslate_large_tiles_connecting"
+        }
+      ]
+    },
+    "floor": {
+      "type": "random_block",
+      "blocks": [
+        {
+          "block": "minecraft:sculk",
+          "weight": 2
+        },
+        {
+          "block": "minecraft:cobbled_deepslate"
+        },
+        {
+          "block": "minecraft:deepslate_bricks"
+        },
+        {
+          "block": "minecraft:cracked_deepslate_bricks"
+        }
+      ]
+    },
+    "stairs": {
+      "type": "random_block",
+      "blocks": [
+        {
+          "block": "minecraft:cobbled_deepslate_stairs"
+        },
+        {
+          "block": "minecraft:deepslate_brick_stairs"
+        }
+      ]
+    },
+    "solid_stairs": {
+      "type": "random_block",
+      "blocks": [
+        {
+          "block": "minecraft:cobbled_deepslate_stairs"
+        },
+        {
+          "block": "minecraft:deepslate_brick_stairs"
+        }
+      ]
+    },
+    "material": {
+      "type": "random_block",
+      "blocks": [
+        {
+          "block": "minecraft:sculk",
+          "weight": 2
+        },
+        {
+          "block": "minecraft:cobbled_deepslate"
+        },
+        {
+          "block": "minecraft:deepslate_bricks"
+        },
+        {
+          "block": "minecraft:cracked_deepslate_bricks"
+        }
+      ]
+    },
+    "slab": {
+      "type": "random_block",
+      "blocks": [
+        {
+          "block": "minecraft:cobbled_deepslate_slab"
+        },
+        {
+          "block": "minecraft:stone_brick_slab"
+        }
+      ]
+    },
+    "solid_slab": {
+      "type": "random_block",
+      "blocks": [
+        {
+          "block": "minecraft:cobbled_deepslate_slab"
+        },
+        {
+          "block": "minecraft:stone_brick_slab"
+        }
+      ]
+    },
+    "wall": {
+      "type": "random_block",
+      "blocks": [
+        {
+          "block": "minecraft:cobbled_deepslate_wall"
+        },
+        {
+          "block": "minecraft:stone_brick_wall"
+        }
+      ]
+    },
+    "fencing": {
+      "type": "block",
+      "block": "minecraft:iron_bars"
+    },
+    "fluid": {
+      "type": "block",
+      "block": "minecraft:water"
+    }
+  }
+}

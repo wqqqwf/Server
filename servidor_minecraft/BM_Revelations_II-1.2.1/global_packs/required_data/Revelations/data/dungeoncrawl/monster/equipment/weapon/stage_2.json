@@ -1,0 +1,46 @@
+{
+	"melee": [
+		{
+			"item": "minecraft:wooden_sword"
+		},
+		{
+			"item": "minecraft:wooden_pickaxe"
+		},
+		{
+			"item": "minecraft:wooden_shovel"
+		},
+		{
+			"item": "minecraft:stone_sword",
+			"weight": 3
+		},
+		{
+			"item": "minecraft:stone_pickaxe",
+			"weight": 3
+		},
+		{
+			"item": "minecraft:stone_axe",
+			"weight": 3
+		},
+		{
+			"item": "minecraft:stone_shovel",
+			"weight": 3
+		},
+		{
+			"item": "minecraft:iron_sword"
+		},
+		{
+			"item": "simplyswords:iron_cutlass"
+		},
+		{
+			"item": "simplyswords:iron_twinblade"
+		},
+		{
+			"item": "simplyswords:iron_greataxe"
+		}
+	],
+	"ranged": [
+		{
+			"item": "minecraft:bow"
+		}
+	]
+}

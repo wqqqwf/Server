@@ -1,0 +1,53 @@
+{
+	"melee": [
+		{
+			"item": "simplyswords:iron_longsword",
+			"weight": 2
+		},
+		{
+			"item": "simplyswords:iron_warglaive",
+			"weight": 2
+		},
+		{
+			"item": "simplyswords:iron_glaive",
+			"weight": 2
+		},
+		{
+			"item": "minecraft:iron_shovel",
+			"weight": 2
+		},
+		{
+			"item": "simplyswords:diamond_rapier",
+			"weight": 2
+		},
+		{
+			"item": "simplyswords:iron_warglaive",
+			"weight": 2
+		},
+		{
+			"item": "simplyswords:iron_longsword",
+			"weight": 3
+		},
+		{
+			"item": "simplyswords:toxic_longsword",
+			"weight": 3
+		},
+		{
+			"item": "simplyswords:emberblade",
+			"weight": 3
+		},
+		{
+			"item": "simplyswords:molten_edge",
+			"weight": 3
+		},
+		{
+			"item": "simplyswords:whisperwind",
+			"weight": 3
+		}
+	],
+	"ranged": [
+		{
+			"item": "minecraft:bow"
+		}
+	]
+}

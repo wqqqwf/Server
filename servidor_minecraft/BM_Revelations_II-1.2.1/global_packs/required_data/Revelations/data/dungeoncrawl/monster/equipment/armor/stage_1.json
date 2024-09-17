@@ -1,0 +1,34 @@
+{
+	"helmet": [
+		{
+			"item": "immersive_armors:wooden_helmet"
+		},
+		{
+			"item": "minecraft:chainmail_helmet"
+		}
+	],
+	"chestplate": [
+		{
+			"item": "immersive_armors:wooden_chestplate"
+		},
+		{
+			"item": "minecraft:chainmail_chestplate"
+		}
+	],
+	"leggings": [
+		{
+			"item": "immersive_armors:wooden_leggings"
+		},
+		{
+			"item": "minecraft:chainmail_leggings"
+		}
+	],
+	"boots": [
+		{
+			"item": "immersive_armors:wooden_boots"
+		},
+		{
+			"item": "minecraft:chainmail_boots"
+		}
+	]
+}

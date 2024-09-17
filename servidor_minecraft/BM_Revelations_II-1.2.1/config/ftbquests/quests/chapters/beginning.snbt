@@ -1,0 +1,26 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: "hexagon"
+	filename: "beginning"
+	group: ""
+	id: "1A629A15C58B0FB1"
+	order_index: 0
+	quest_links: [ ]
+	quests: [{
+		id: "07B75435691FEBB7"
+		rewards: [{
+			id: "1F750848E8643D5D"
+			item: "minecraft:carrot"
+			type: "item"
+		}]
+		subtitle: "Quests in the works"
+		tasks: [{
+			id: "4593EF8CA4889780"
+			title: "Welcome to Revelations II"
+			type: "checkmark"
+		}]
+		x: 0.0d
+		y: 0.0d
+	}]
+	title: "Beginning"
+}
